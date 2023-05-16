@@ -19,4 +19,10 @@ Podczas wykonywania przypadków testowych na 34 przypadki 17 się nie powiodło.
 
 ![wykrestc](https://i.imgur.com/AtS6xGc.jpg)
 
+Poniżej znajdują się przyprzypadki testowe, którę zakończyły się wynikem pozytywnym.
+![wykrestc](https://i.imgur.com/O5baNsN.jpeg)
+
+Natomiast na kolejnym zrzucie ekranu widać wszsytkie te przypadki testowe, które zakończyły się negatywnie.
+![wykrestc](https://i.imgur.com/vknDLY0.jpg)
+
 Pod [tym linkiem](https://drive.google.com/file/d/1xD5HCYrKuVus2YOGl8kVlXFtUWPNhrNl/view?usp=sharing) znajuję przykład zgłoszenia jednego z błedów, który został znaleźiony przez napisany przeze mnie przypadek testowy.
