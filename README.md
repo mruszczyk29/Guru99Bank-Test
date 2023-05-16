@@ -6,11 +6,11 @@ Celem przeprowadzenia testów była weryfikacja poprawności działania funkcji 
 
 Narzędzia jakie zostały do tego użyte to: 
 
-•	**ShareX** – do tworzenia i edycji zrzutów ekranu podczas testów
+*	**ShareX** – do tworzenia i edycji zrzutów ekranu podczas testów
 
-•	**Jira** – do zgłaszania błędów oraz śledzenia postępów testów
+*	**Jira** – do zgłaszania błędów oraz śledzenia postępów testów
 
-•	**Zephyr Scale** – do zarządzania przypadkami testowymi
+*	**Zephyr Scale** – do zarządzania przypadkami testowymi
 
 
 Dokument, na którym opierałem się podczas testowania oraz pisania przypadków testowych jest to dokumentacja aplikacji [Guru99 Bank w wersji 1.3](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit#) wydanej w dniu 25/10/2013.
@@ -18,3 +18,6 @@ Lista przypadków testowych, które zostały przeze mnie napisane oraz wykonane 
 Podczas wykonywania przypadków testowych na 34 przypadki 17 się nie powiodło. Zostało zgłodzone 17 błędów. Czas pracy jaki został poświęcony na wykonanie przypadków testowych wraz z przygotowaniem zrzutów ekranu to 1h10min. 
 
 ![wykrestc](https://i.imgur.com/AtS6xGc.jpg)
+
+Następnie pod spodem jest przykładowe zgłoszenie jednego z błedów, który został znaleźiony przez jeden z napisanych przypadków testowych.
+![bug1](https://drive.google.com/file/d/1xD5HCYrKuVus2YOGl8kVlXFtUWPNhrNl/view?usp=sharing)
