@@ -20,4 +20,4 @@ Podczas wykonywania przypadków testowych na 34 przypadki 17 się nie powiodło.
 ![wykrestc](https://i.imgur.com/AtS6xGc.jpg)
 
 Następnie pod spodem jest przykładowe zgłoszenie jednego z błedów, który został znaleźiony przez jeden z napisanych przypadków testowych.
-![bug1](https://github.com/mruszczyk29/Guru99Bank-Test/blob/main/Bug1.pdf)
+[Bug1.pdf](https://github.com/mruszczyk29/Guru99Bank-Test/files/11489780/Bug1.pdf)
