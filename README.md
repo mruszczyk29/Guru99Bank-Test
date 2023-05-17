@@ -28,5 +28,5 @@ Natomiast na kolejnym zrzucie ekranu widać wszsytkie te przypadki testowe, któ
 Następnie poniżej są wszystkie znalezione przeze mnie błędy.
 ![bugi](https://i.imgur.com/oN6lHan.jpg)
 
-Pod [tym linkiem](https://drive.google.com/file/d/1xD5HCYrKuVus2YOGl8kVlXFtUWPNhrNl/view?usp=sharing) znajuję przykład zgłoszenia jednego z błedów, który został znaleźiony przez napisany przeze mnie przypadek testowy.
+Pod [tym linkiem](https://drive.google.com/file/d/1xD5HCYrKuVus2YOGl8kVlXFtUWPNhrNl/view?usp=sharing) znajuję przykład zgłoszenia jednego z błedów, który został znaleziony przez napisany przeze mnie przypadek testowy.
 
